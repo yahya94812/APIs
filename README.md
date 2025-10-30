@@ -1,2 +1,2 @@
 # APIs
-This repo demonstrate what is apis and how to use apis
+This repo demonstrate what is APIs and how to them
